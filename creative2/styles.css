@@ -1,0 +1,16 @@
+.header {
+    align-items:center;
+    text-align:center;
+    display:flex;
+    justify-content:center;
+}
+
+.test {
+    margin:auto;
+    text-align: center;
+    
+}
+
+.navbar {
+    justify-content:center;
+}
